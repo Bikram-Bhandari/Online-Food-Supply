@@ -5,14 +5,7 @@ Free code HTML CSS Javascript and Free learning web developer
 
 
 
-## Image in project
 
-![Alt text](pic/pic1.PNG "CALCULATOR DESIGN") 
-![Alt text](pic/pic2.PNG "CALCULATOR DESIGN") 
-![Alt text](pic/pic3.PNG "CALCULATOR DESIGN") 
-![Alt text](pic/pic4.PNG "CALCULATOR DESIGN") 
-![Alt text](pic/pic5.PNG "CALCULATOR DESIGN") 
-![Alt text](pic/pic6.PNG "CALCULATOR DESIGN") 
 - [Detailed instructions on this project](https://www.youtube.com/@BT_Solution_Hub)
 
 
